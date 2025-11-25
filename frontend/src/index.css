@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&family=Prata&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Global Reset */
+* {
+  font-family: Outfit, sans-serif;
+  scroll-behavior: smooth;
+  box-sizing: border-box;
+}
+
+/* Headings - Premium Serif */
+h1, h2, h3, h4, h5 {
+  font-family: "Prata", serif;
+  letter-spacing: 1px;
+  color: #1a1a1a;
+}
+
+/* Links */
+a {
+  transition: all 0.3s ease;
+}
+a:hover {
+  color: #d4af37; /* Gold hover */
+}
+
+/* Active Nav */
+a.active hr {
+  display: block;
+  border: 1px solid #d4af37;
+  width: 50%;
+  margin: auto;
+}
+
+/* Scrollbar hidden */
+::-webkit-scrollbar {
+  display: none;
+}
+
+/* Mobile Nav Active */
+@media (max-width: 640px) {
+  a.active {
+    background-color: #1a1a1a;
+    color: white;
+  }
+}
+
+/* Buttons */
+.btn-primary {
+  background: linear-gradient(135deg, #d4af37, #b8860b);
+  color: #fff;
+  padding: 12px 28px;
+  border-radius: 30px;
+  font-weight: 600;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+}
+.btn-primary:hover {
+  background: linear-gradient(135deg, #b8860b, #d4af37);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0,0,0,0.3);
+}
+
+/* Card Premium Look */
+.card {
+  background: #fff;
+  border-radius: 16px;
+  padding: 24px;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+}
+.card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 12px 30px rgba(0,0,0,0.15);
+}
+
+/* Premium Background Gradient */
+.section-bg {
+  background: linear-gradient(135deg, #fffdf5, #f7f4ea);
+}
+
+/* Footer */
+.footer {
+  background: #1a1a1a;
+  color: #ccc;
+  padding: 40px 20px;
+}
+.footer a {
+  color: #ccc;
+}
+.footer a:hover {
+  color: #d4af37;
+}
