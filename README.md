@@ -126,17 +126,14 @@ CLOUDINARY_URL=your_cloudinary_url
 
 ## 📸 Screenshots
 
-### 🎨 AI Design Interface
-![AI Design](./assets/screenshots/design.png)
 
-### 👕 T-Shirt Preview
-![T-Shirt Preview](./assets/screenshots/tshirt-preview.png)
-
-### 🛒 Checkout Page
-![Checkout](./assets/screenshots/checkout.png)
-
-### 🛠️ Admin Dashboard
-![Admin Panel](./assets/screenshots/admin-dashboard.png)
+<img width="1912" height="906" alt="Screenshot 2026-04-07 224730" src="https://github.com/user-attachments/assets/91ddfb30-c136-414d-986a-5a888ff19648" />
+<img width="1914" height="808" alt="Screenshot 2026-04-07 224804" src="https://github.com/user-attachments/assets/1397f97a-d5c9-4200-992b-d71359726e34" />
+<img width="1911" height="791" alt="Screenshot 2026-04-07 225051" src="https://github.com/user-attachments/assets/fcd3ad01-e8f6-47d2-8bd2-8d5585fe602c" />
+<img width="1919" height="826" alt="Screenshot 2026-04-07 225123" src="https://github.com/user-attachments/assets/de15fffa-455a-44ce-b1fd-592112f757a1" />
+<img width="1916" height="817" alt="Screenshot 2026-04-07 225156" src="https://github.com/user-attachments/assets/381c27d6-fd23-4a74-9a2f-e2940abae37f" />
+<img width="1919" height="817" alt="Screenshot 2026-04-07 225218" src="https://github.com/user-attachments/assets/e2364f69-6629-40d1-b4d4-8c5399d9fd3d" />
+<img width="1917" height="821" alt="Screenshot 2026-04-07 225229" src="https://github.com/user-attachments/assets/2e325c5c-42af-44f4-9fe2-8f947dc74a81" />
 
 ---
 
